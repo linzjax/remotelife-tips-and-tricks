@@ -58,11 +58,11 @@ You can schedule appointments during timeslots no one else will.
 
 The amount you make can be based on how fast you work
 
-Leadership or ownership of projects (sometimes)
+Leadership or total ownership of projects (sometimes)
 
 Rewards self-direction
 
-Codified communication means
+Since you're communicating everything online, you get the bonus of automatically codified communication
 
 
 
@@ -88,13 +88,13 @@ Communication is tough
 
 Asyncronous productivity
 
-Random learning
+Random learning from peers is limited
 
 Mentorship can be hard
 
 Always working. You may not understand that you're not working.
 
-Easy to overbook
+Easy to overbook yourself for more than you can handle.
 
 
 
@@ -182,12 +182,16 @@ The internet is distracting. There's so social pressure from co-workers. You can
 - LeechBlock - firefox
 - Pomodoro timers
 - Toggle
-- Blocking things at night so you can get to sleep, and block them in the morning so you get out of bed
+- MindTheTime - Recurser made!
 - Think about why your defaulting to these distractions. What are you actually trying to solve?
+
+Get a good nights sleep
+- Blocking things at night so you can get to sleep, and block them in the morning so you get out of bed
 - Lights off, no screens at night
 - Sleep mask :)
-- MindTheTime - Recurser made!
 
+
+Something to keep in mind: These apps will work for a little while. You'll inevitably forget about them, fight them, or ignore them. That's ok. Don't take it as a sign that you've failed. Just try a new system. Find a way to shake things up.
 
 
 #### Don't Forget how to People
@@ -215,21 +219,15 @@ It's easy to take "working" holidays because you can work from anywhere, but mak
 - Zoom
 - Google Hangouts
 
-
-
 #### Organizing and communicating
 
 - Slack
 - BaseCamp
 
-
-
 #### Pair Programming
 
 - Teletype
 - Floobits
-
-
 
 #### Productivity
 
@@ -237,4 +235,3 @@ It's easy to take "working" holidays because you can work from anywhere, but mak
 - RescueTime
 - Pomodoro timers
 - Desk Yogi
-- 
