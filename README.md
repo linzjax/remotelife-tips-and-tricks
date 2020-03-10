@@ -233,5 +233,6 @@ It's easy to take "working" holidays because you can work from anywhere, but mak
 
 - Freedom.to
 - RescueTime
+- [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
 - Pomodoro timers
 - Desk Yogi
